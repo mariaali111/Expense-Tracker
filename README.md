@@ -31,7 +31,7 @@ It allows users to record expenses, filter them by date and category, and visual
 ---
 
 ## Project Structure
-
+```
 Expense-Tracker/
 ├── app.py
 ├── requirements.txt
@@ -42,6 +42,7 @@ Expense-Tracker/
 │   ├── index.html
 │   └── edit.html
 └── README.md
+```
 
 ---
 
@@ -71,6 +72,6 @@ Expense-Tracker/
   ```
 
 5. **Open in browser**
-  ```bash
+  <br>
   http://127.0.0.1:5000/
-  ```
+  
